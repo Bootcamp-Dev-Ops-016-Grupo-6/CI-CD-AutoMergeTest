@@ -8,7 +8,7 @@ on:
 
 jobs:
     validate:
-        name: 1re paso Verificar el Código
+        name: 1er paso Verificar Código
         runs-on: ubuntu-latest
         steps:
             - name: Checkout del código
